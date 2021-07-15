@@ -1,0 +1,23 @@
+1. Gathering the datasets
+dataset link:- https://drive.google.com/drive/u/0/folders/1-SWLkGAi34e5ef3tZxOun2hlNk4T4Df3
+steps for gathering custom datasets
+
+2. Workspace for training - Google colab
+
+3. Integrating the datasets in your workspace from google drive
+
+4. Importing the necessary libraries
+
+5. Datasets Exploration
+
+6. Datasets Visualization
+
+7. Model building
+
+8. Training Model
+
+9. Saving Model weights and graphs
+
+10. Model Deployment 
+
+11. Inference
